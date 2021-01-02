@@ -1,0 +1,7 @@
+auto-reload yes
+reload-time 30
+color	info			yellow color235 bold
+color	listfocus		black white
+color	listnormal_unread	white black bold
+color	listfocus_unread	black white bold
+browser "firefox %u"
