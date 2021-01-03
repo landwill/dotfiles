@@ -3,7 +3,8 @@ URxvt.foreground:	#d4d4d4
 URxvt.scrollBar:	false
 URxvt.iso14755:		false
 URxvt.iso14755_52:	false
-URxvt.font:		xft:Misc Termsynu:style=Regular, xft:symbola
+URxvt.font:		xft:Misc Termsynu:style=Regular, xft:Monapo, xft:symbola
+
 
 ! black
 *color0: #353540
