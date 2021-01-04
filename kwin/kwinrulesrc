@@ -1,0 +1,99 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Window settings for urxvt
+below=true
+belowrule=2
+position=960,360
+positionrule=2
+size=960,720
+sizerule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=1
+wmclass=btm urxvt
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
+Description=Window settings for urxvt
+below=true
+belowrule=2
+position=640,0
+positionrule=2
+size=640,360
+sizerule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=1
+wmclass=joplin urxvt
+wmclasscomplete=true
+wmclassmatch=1
+
+[3]
+Description=Window settings for urxvt
+below=true
+belowrule=2
+position=0,0
+positionrule=2
+size=634,354
+sizerule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=1
+wmclass=newsboat urxvt
+wmclasscomplete=true
+wmclassmatch=1
+
+[4]
+Description=Window settings for urxvt
+fsplevelrule=2
+title=urxvt
+titlematch=1
+types=1
+wmclass=urxvt
+wmclassmatch=1
+
+[5]
+Description=Window settings for urxvt
+below=true
+belowrule=2
+position=0,360
+positionrule=2
+size=960,720
+sizerule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=1
+wmclass=calcurse urxvt
+wmclasscomplete=true
+wmclassmatch=1
+
+[6]
+Description=Window settings for urxvt
+below=true
+belowrule=2
+position=1280,0
+positionrule=2
+size=640,360
+sizerule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=1
+wmclass=ncmpcpp urxvt
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=6

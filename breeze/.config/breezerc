@@ -1,0 +1,15 @@
+[Common]
+ShadowColor=255,87,87
+ShadowSize=ShadowNone
+
+[Windeco]
+ButtonSize=ButtonSmall
+DrawBackgroundGradient=false
+
+[Windeco Exception 0]
+BorderSize=0
+Enabled=true
+ExceptionPattern=urxvt|ncmpcpp|htop|calcurse|newsboat|joplin|btm
+ExceptionType=0
+HideTitleBar=true
+Mask=0
